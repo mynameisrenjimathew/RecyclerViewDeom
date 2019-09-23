@@ -47,6 +47,7 @@ class MainActivity : AppCompatActivity() {
         modelList.add(model("dsdsd"))
         modelList.add(model("dsdsd"))
         modelList.add(model("dsdsd"))
+        modelList.add(model("dsdsd"))
 
 
         adapter = AdapterRecycer(modelList, this)
